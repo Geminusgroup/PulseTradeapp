@@ -1,4 +1,4 @@
-mkdir -p pulsetrade/pages/api pulsetrade/server pulsetrade/styles && cat > pulsetrade/package.json <<'JSON'
+mkdir -p pulsetrade/pages/api pulsetrade/server pulsetrade/styles && cat > package.json <<'JSON'
 {
   "name": "pulsetrade",
   "version": "1.0.0",
